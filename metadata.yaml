@@ -1,0 +1,36 @@
+_repo: The-Black-Cross_21259
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ivanowski, Sigismond de
+    aliases:
+    - De Ivanowski, Sigismond
+    - Ivanowski, Sigmund de
+    birthdate: 1875
+    gutenberg_agent_id: '4578'
+    url: http://www.gutenberg.org/2009/agents/4578
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Briggs, Olive M. (Olive Mary)
+    birthdate: 1873
+    gutenberg_agent_id: '9807'
+    url: http://www.gutenberg.org/2009/agents/9807
+description: ''
+gutenberg_issued: '2007-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secret societies -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Musicians -- Fiction'
+- !lcc 'PS'
+title: The Black Cross
+url: http://www.gutenberg.org/ebooks/21259
